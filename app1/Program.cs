@@ -31,6 +31,9 @@ namespace app1
             //Console.WriteLine("Q6: Local variables exist inside method execution.");
             //Console.WriteLine("Static variables live for the entire program lifetime.\n");
             #endregion
+            #region Q7
+            Console.WriteLine(" Garbage Collector automatically frees unused memory.\n");
+            #endregion
 
 
         }
