@@ -17,6 +17,14 @@
             //int Var = 50;
             //Console.WriteLine("Q Class Field = {classField}, Method Variable = {methodVariable}\n");
             #endregion
+            #region Q4
+            //if (true)
+            //{
+            //    int Var = 5;
+            //    Console.WriteLine(" Block Variable = {blockVariable}");
+            //}
+            //Console.WriteLine();
+            #endregion
 
 
 
