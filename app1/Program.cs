@@ -13,8 +13,12 @@
             //var implicitNumber = 20;     
             //Console.WriteLine(" Explicit = {explicitNumber}, Implicit = {implicitNumber}\n");
             #endregion
+            #region Q3
+            //int Var = 50;
+            //Console.WriteLine("Q Class Field = {classField}, Method Variable = {methodVariable}\n");
+            #endregion
 
-          
+
 
         }
     }
