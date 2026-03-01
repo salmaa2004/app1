@@ -1,4 +1,6 @@
-﻿namespace app1
+﻿using System;
+
+namespace app1
 {
     internal class Program
     {
@@ -25,7 +27,10 @@
             //}
             //Console.WriteLine();
             #endregion
-
+            #region Q6
+            //Console.WriteLine("Q6: Local variables exist inside method execution.");
+            //Console.WriteLine("Static variables live for the entire program lifetime.\n");
+            #endregion
 
 
         }
