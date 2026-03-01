@@ -10,18 +10,7 @@
             #endregion
 
 
-            #region Q2
-            //int explicitNumber = 10;     
-            //var implicitNumber = 20;     
-            //Console.WriteLine(" Explicit = {explicitNumber}, Implicit = {implicitNumber}\n");
-            #endregion
-
-            #region Q3
-            //const double PI = 3.14159;
-            //Console.WriteLine($"Q3: Constant PI = {PI}");
-            //Console.WriteLine("Constants cannot be changed after declaration.\n");
-
-            #endregion
+        
         }
     }
 }
