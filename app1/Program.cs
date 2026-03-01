@@ -32,8 +32,17 @@ namespace app1
             //Console.WriteLine("Static variables live for the entire program lifetime.\n");
             #endregion
             #region Q7
-            Console.WriteLine(" Garbage Collector automatically frees unused memory.\n");
+            //Console.WriteLine("Q7: Garbage Collector automatically frees unused memory.\n");
             #endregion
+            #region Q8
+            //int x = 10;
+            //{
+            //    int y = 20;
+            //    Console.WriteLine($"Q8: Outer x = {x}, Inner y = {y}");
+            //}
+            //Console.WriteLine();
+            #endregion
+
 
 
         }
